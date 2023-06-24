@@ -50,28 +50,10 @@ wails build -platform=darwin
 wails build -platform=linux
 ```
 
+## 运行
+```shell
+ wails dev
+```
+
 ## 软件截图
 
-+ String 类型
-
-![string.png](images/string.png)
-
-+ Hash 类型
-
-![hash.png](images/hash.png)
-
-+ List 类型
-
-![list.png](images/list.png)
-
-+ Set 类型
-
-![set.png](images/set.png)
-
-+ ZSet 类型
-
-![zset.png](images/zset.png)
-=======
-# redis-cli-desktop
-go-wails 学习
->>>>>>> ef1b70ebad91d5029451cafc15869fbe9ca404bf
